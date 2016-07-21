@@ -1,1 +1,1 @@
-touch red
+touch blue_sambas
